@@ -40,6 +40,5 @@ class Product
 
 $product = new Product(1, 'T-shirt', 19.99);
 $product->showDetails();
-$product3 = new Product(3, 'T-shirt', 19.99);
-$product3->showDetails();
+
 
